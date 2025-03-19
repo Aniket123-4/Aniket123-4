@@ -1,3 +1,5 @@
+![WhatsApp Image 2025-03-19 at 21 35 25_287ec024](https://github.com/user-attachments/assets/b6468b73-9314-4d49-9f19-08350cf04921)
+
 <h1 align="center">Hi 👋, I'm Aniket Sahu</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
